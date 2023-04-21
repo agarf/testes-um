@@ -1,0 +1,9 @@
+site_name: Sistema de Login
+repo_url: https://github.com/agarf/testes-um
+repo_name: agarf/testes-um
+edit_uri: tree/master/docs
+
+
+theme:
+  name: material
+  language: pt-BR
