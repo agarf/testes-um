@@ -3,3 +3,14 @@ Crie um programa que tenha uma tupla única com nomes de produtos e seus respect
 seguencia. NO final, mostre uma listagem de pre-
 ços, organizando os dados em forma tabular.
 """
+
+listagem = ('Pão', 5,00, 'Leite',  5,80, 'Feijao', 7.45)
+
+
+"""
+exemplo
+Lapis.......R$  1.76
+Borracha....R$ 23.56
+"""
+
+print(listagem)
