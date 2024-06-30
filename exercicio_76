@@ -13,4 +13,4 @@ Lapis.......R$  1.76
 Borracha....R$ 23.56
 """
 
-print(listagem)
+print(listagem[0]...[1])
