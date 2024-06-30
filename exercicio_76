@@ -4,7 +4,7 @@ seguencia. NO final, mostre uma listagem de pre-
 ços, organizando os dados em forma tabular.
 """
 
-listagem = ('Pão', 5,00, 'Leite',  5,80, 'Feijao', 7.45)
+listagem = ('Pão', 5.00, 'Leite',  5,80, 'Feijao', 7.45, 'Sal', 1.25, 'Carne', 45.00)
 
 
 """
